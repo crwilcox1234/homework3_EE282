@@ -1,0 +1,22 @@
+dmel-all-aligned-r6.24.fasta.gz: FAILED open or read
+dmel-all-CDS-r6.24.fasta.gz: FAILED open or read
+dmel-all-chromosome-r6.24.fasta.gz: OK
+dmel-all-clones-r6.24.fasta.gz: FAILED open or read
+dmel-all-exon-r6.24.fasta.gz: FAILED open or read
+dmel-all-five_prime_UTR-r6.24.fasta.gz: FAILED open or read
+dmel-all-gene_extended2000-r6.24.fasta.gz: FAILED open or read
+dmel-all-gene-r6.24.fasta.gz: FAILED open or read
+dmel-all-intergenic-r6.24.fasta.gz: FAILED open or read
+dmel-all-intron-r6.24.fasta.gz: FAILED open or read
+dmel-all-miRNA-r6.24.fasta.gz: FAILED open or read
+dmel-all-miscRNA-r6.24.fasta.gz: FAILED open or read
+dmel-all-ncRNA-r6.24.fasta.gz: FAILED open or read
+dmel-all-predicted-r6.24.fasta.gz: FAILED open or read
+dmel-all-pseudogene-r6.24.fasta.gz: FAILED open or read
+dmel-all-sequence_features-r6.24.fasta.gz: FAILED open or read
+dmel-all-synteny-r6.24.fasta.gz: FAILED open or read
+dmel-all-three_prime_UTR-r6.24.fasta.gz: FAILED open or read
+dmel-all-transcript-r6.24.fasta.gz: FAILED open or read
+dmel-all-translation-r6.24.fasta.gz: FAILED open or read
+dmel-all-transposon-r6.24.fasta.gz: FAILED open or read
+dmel-all-tRNA-r6.24.fasta.gz: FAILED open or read
