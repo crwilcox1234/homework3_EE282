@@ -1,0 +1,2 @@
+sed '/^>/d' dmel-all-chromosome-r6.24.fasta | wc -m
+145523521
