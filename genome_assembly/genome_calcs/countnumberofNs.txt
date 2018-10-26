@@ -1,0 +1,3 @@
+grep -o 'N' dmel-all-chromosome-r6.24.fasta | wc -l
+1154850
+
