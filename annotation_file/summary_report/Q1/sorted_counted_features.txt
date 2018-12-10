@@ -1,0 +1,18 @@
+cut -f 3 dmel-all-r6.24.gtf > features.txt
+sort features.txt | uniq -c  
+  33358 3UTR
+  46339 5UTR
+ 161014 CDS
+ 187315 exon
+  17772 gene
+    485 miRNA
+  30507 mRNA
+   2961 ncRNA
+    262 pre_miRNA
+    334 pseudogene
+    115 rRNA
+    299 snoRNA
+     32 snRNA
+  30591 start_codon
+  30533 stop_codon
+    312 tRNA
