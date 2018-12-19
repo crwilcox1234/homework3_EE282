@@ -1,2 +1,4 @@
 sed '/^>/d' dmel-all-chromosome-r6.24.fasta | wc -m
 145523521
+
+### this value is actually not correct as you are not taking into account the number of line breaks and the # of sequences. Please make sure to take those into account since there are 1799389 new line characters and 1870 headers. There are 2 extra characters that are probably extra line returns or something else.
