@@ -1,3 +1,8 @@
 grep -o 'N' dmel-all-chromosome-r6.24.fasta | wc -l
 1154850
 
+### Hi I just wanted to let you know that this will actually count all N's and include the N's in the fasta headers. You should also count the # of N's in the headers and subtract that from your value to get the actual number of N's. 
+
+```
+grep '^>' dmel-all-chromosome-r6.24.fasta | grep -o 'N' | wc -l
+```
